@@ -1,7 +1,8 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
-<h1 align="center">Hi 👋, I'm Shanu Singh</h1>
-<h3 align="center">A passionate Financial Analysts from India</h3>
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
+<img align="top" alt="MasterHead" width="100%" height="200" src="https://static.wixstatic.com/media/6c3893_60b02f5779ab4a239a715f41ba6a007e~mv2_d_5000_1447_s_2.gif">
+<hr>
+<h1>Hi 👋, I'm Shanu Singh</h1>
+<h3>A passionate Financial Analysts from India</h3>
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shanusingh530&label=Profile%20views&color=0e75b6&style=flat" alt="shanusingh530" /> </p>
 
 - 🔭 I’m working on **Accounting & Data Analysis**
