@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **SQL & Tablue**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Shanusingh530/Projects](https://github.com/Shanusingh530/Projects)
+- 👨‍💻 All of my projects are available at [[https://github.com/Shanusingh530/Projects](https://github.com/Shanusingh530/Projects](https://github.com/Shanusingh530/Projects))
 
 - 💬 Ask me about **Accounting & Data Analysis**
 
